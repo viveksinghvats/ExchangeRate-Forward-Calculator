@@ -1,0 +1,19 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Intellij
+*.iml
+*.is
+*.ipr
+.idea/
+.Exim-code/
+
+# Maven
+log/
+target/
+/.apt_generated_tests/
+.aws-sam
+
+# Mac
+.DS_Store
