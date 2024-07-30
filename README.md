@@ -1,6 +1,6 @@
 # ExchangeRate Forward Calculator
 
-The ExchangeRate Forward Calculator project utilizes the Interest Rate Parity (IRP) theory to predict future currency exchange rates, improving decision-making processes for financial planning and analysis.
+The ExchangeRate Forward Calculator project utilizes the [Interest Rate Parity (IRP)](https://www.investopedia.com/terms/i/interestrateparity.asp#:~:text=Interest%20rate%20parity%20(IRP)%20is,and%20the%20spot%20exchange%20rate.) theory to predict future currency exchange rates, improving decision-making processes for financial planning and analysis.
 
 ## Features
 
